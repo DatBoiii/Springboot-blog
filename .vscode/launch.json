@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TechtalentblogApplication<techtalentblog>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.techtalentsouth.techtalentblog.TechtalentblogApplication",
+            "projectName": "techtalentblog",
+            "args": ""
+        }
+    ]
+}
